@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  section7assignment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-18T19:20:33.520649+02:00"
+    dependencies:
+    - name: tomcat
+      repository: http://charts.bitnami.com/bitnami
+      version: ^10.9.3
+    description: A Helm chart for Kubernetes
+    digest: 09dd5577bd4eb643ca533a03139ada4d8fb54ca3de6347fc197bfd08bc84509f
+    name: section7assignment
+    type: application
+    urls:
+    - section7assignment-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-18T19:20:33.516633+02:00"
